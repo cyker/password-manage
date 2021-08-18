@@ -20,5 +20,4 @@ EXE  文件是我自己打包生成，强迫症用户可自己使用 pyinstaller
   
   详细说明及反馈请转[我的博客](http://blog.c1ker.top/2018/02/24/个人密码管理器/)
 
-test!!
 # Enjoy! :)
